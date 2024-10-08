@@ -1,0 +1,292 @@
+[
+    {
+        "slug": "personal-training",
+        "title": "Personalized Training Programs",
+        "image": "/assets/gym/service/services-10.jpg",
+        "content": "At [Gym Name], we understand that each individual is unique, which is why we offer customized training programs. Whether you're a beginner or an advanced athlete, our certified trainers design workout routines specifically to meet your goals, ensuring maximum results in the shortest time.",
+        "section1": {
+            "title": "Your Fitness Journey, Tailored for You",
+            "content": "Our personalized training programs are crafted based on your fitness level, preferences, and goals. This allows you to progress faster and more effectively, ensuring that every workout session brings you closer to achieving your ultimate fitness aspirations."
+        },
+        "section2": {
+            "title": "Expert Trainers at Your Service",
+            "content": "Our certified trainers have years of experience and provide the guidance and support you need. They’ll track your progress, make necessary adjustments, and keep you motivated along the way."
+        },
+        "images": [
+            "/assets/gym/service/services-1.jpg",
+            "/assets/gym/service/services-2.jpg"
+        ],
+        "faq": [
+            {
+                "title": "What is personalized training?",
+                "content": "It’s a customized one-on-one session tailored to meet your specific fitness goals."
+            },
+            {
+                "title": "How often should I train?",
+                "content": "Depending on your goals, we recommend 3-5 sessions per week."
+            }
+        ],
+        "workingHours": {
+            "days": "Mon-Fri",
+            "time": "6:00 AM - 9:00 PM"
+        },
+        "relatedServices": [
+            {
+                "title": "Group Fitness Classes",
+                "slug": "group-fitness",
+                "image": "/assets/gym/service/gym-22.jpg"
+            },
+            {
+                "title": "Nutrition Coaching",
+                "slug": "nutrition-coaching",
+                "image": "/assets/gym/service/services-12.jpg"
+            },
+            {
+                "title": "Strength and Conditioning",
+                "slug": "strength-conditioning",
+                "image": "/assets/gym/service/services-6.jpg"
+            }
+        ]
+    },
+    {
+        "slug": "group-fitness",
+        "image": "/assets/gym/service/gym-22.jpg",
+        "title": "Group Fitness Classes",
+        "content": "Join our exciting group fitness classes ranging from high-intensity interval training (HIIT) to calming yoga sessions. Led by expert instructors, these classes will keep you motivated and challenged, all while enjoying the energy of group workouts.",
+        "section1": {
+            "title": "Fun, Engaging, and Energizing Workouts",
+            "content": "Our group classes offer a fun, social environment where everyone motivates each other to push their limits. Enjoy the collective energy and camaraderie while achieving your fitness goals in a fun and interactive way."
+        },
+        "section2": {
+            "title": "Diverse Classes for All Levels",
+            "content": "We offer a variety of classes to suit your preferences and fitness level. Whether you’re looking for a high-energy cardio class or a relaxing yoga session, we’ve got something for everyone."
+        },
+        "images": [
+            "/assets/gym/service/gym-14.jpg",
+            "/assets/gym/service/gym-15.jpg"
+        ],
+        "faq": [
+            {
+                "title": "Do I need to book classes in advance?",
+                "content": "Yes, we recommend reserving your spot online for each class."
+            },
+            {
+                "title": "What should I bring to class?",
+                "content": "Bring a water bottle, towel, and comfortable workout clothes."
+            }
+        ],
+        "workingHours": {
+            "days": "Mon-Sat",
+            "time": "6:00 AM - 8:00 PM"
+        },
+        "relatedServices": [
+            {
+                "title": "Personalized Training Programs",
+                "slug": "personal-training",
+                "image": "/assets/gym/service/services-10.jpg"
+            },
+            {
+                "title": "Nutrition Coaching",
+                "slug": "nutrition-coaching",
+                "image": "/assets/gym/service/services-12.jpg"
+            },
+            {
+                "title": "Strength and Conditioning",
+                "slug": "strength-conditioning",
+                "image": "/assets/gym/service/services-6.jpg"
+            }
+        ]
+    },
+    {
+        "slug": "nutrition-coaching",
+        "title": "Nutrition Coaching",
+        "image": "/assets/gym/service/services-12.jpg",
+        "content": "Achieving your fitness goals isn’t just about exercise—it’s about proper nutrition too. Our nutrition coaching services provide personalized meal plans, expert advice, and tips to fuel your body for optimal performance and long-term success.",
+        "section1": {
+            "title": "Fuel Your Body, Transform Your Life",
+            "content": "Our nutrition coaches work with you to develop a personalized meal plan that aligns with your fitness goals. Whether you're aiming to lose weight, gain muscle, or maintain a balanced diet, our coaches are here to support your journey."
+        },
+        "section2": {
+            "title": "Guided by Science, Designed for You",
+            "content": "Our approach to nutrition is grounded in science and tailored to each individual. We’ll provide you with detailed guidance on how to improve your eating habits for better performance, recovery, and overall well-being."
+        },
+        "images": [
+            "/assets/gym/service/gym-15.jpg",
+            "/assets/gym/service/gym-16.jpg"
+        ],
+        "faq": [
+            {
+                "title": "How do I start a nutrition plan?",
+                "content": "You can schedule a consultation with one of our certified nutrition coaches."
+            },
+            {
+                "title": "Can I still eat my favorite foods?",
+                "content": "Yes! Our philosophy is about balance, so we work with you to incorporate the foods you love while staying on track."
+            }
+        ],
+        "workingHours": {
+            "days": "Mon-Sat",
+            "time": "7:00 AM - 7:00 PM"
+        },
+        "relatedServices": [
+            {
+                "title": "Personalized Training Programs",
+                "slug": "personal-training",
+                "image": "/assets/gym/service/services-10.jpg"
+            },
+            {
+                "title": "Group Fitness Classes",
+                "slug": "group-fitness",
+                "image": "/assets/gym/service/gym-22.jpg"
+            },
+            {
+                "title": "Nutrition Coaching",
+                "slug": "nutrition-coaching",
+                "image": "/assets/gym/service/services-12.jpg"
+            }
+        ]
+    },
+    {
+        "slug": "strength-conditioning",
+        "image": "/assets/gym/service/services-6.jpg",
+        "title": "Strength and Conditioning",
+        "content": "Our strength and conditioning program is designed to improve your power, endurance, and overall fitness level. Using advanced techniques, our trainers will guide you through sessions that challenge you and help build strength over time.",
+        "section1": {
+            "title": "Building Stronger, Healthier Bodies",
+            "content": "Our strength and conditioning programs are scientifically designed to progressively improve your physical performance. Whether you want to enhance your athletic capabilities or just stay fit, this program will help you reach your peak."
+        },
+        "section2": {
+            "title": "Cutting-Edge Techniques and Equipment",
+            "content": "We use the latest equipment and methods to ensure you get the most out of every workout. From free weights to resistance machines, we have everything you need to build strength and improve endurance."
+        },
+        "images": [
+            "/assets/gym/service/gym-16.jpg",
+            "/assets/gym/service/gym-17.jpg"
+        ],
+        "faq": [
+            {
+                "title": "Is this program suitable for beginners?",
+                "content": "Yes! Our trainers adjust the program to match your fitness level."
+            },
+            {
+                "title": "What are the key benefits of strength training?",
+                "content": "Strength training helps improve muscle mass, bone density, and overall physical endurance."
+            }
+        ],
+        "workingHours": {
+            "days": "Mon-Fri",
+            "time": "6:00 AM - 8:00 PM"
+        },
+        "relatedServices": [
+            {
+                "title": "Personalized Training Programs",
+                "slug": "personal-training",
+                "image": "/assets/gym/service/services-10.jpg"
+            },
+            {
+                "title": "Group Fitness Classes",
+                "slug": "group-fitness",
+                "image": "/assets/gym/service/gym-22.jpg"
+            },
+            {
+                "title": "Nutrition Coaching",
+                "slug": "nutrition-coaching",
+                "image": "/assets/gym/service/services-12.jpg"
+            }
+        ]
+    },
+    {
+        "slug": "yoga-classes",
+        "title": "Holistic Yoga Classes",
+        "image": "/assets/gym/service/gym-21.jpg",
+        "content": "Experience tranquility and strength through our holistic yoga classes. Suitable for all levels, these sessions focus on flexibility, breath control, and mental clarity, helping you find balance in your busy life.",
+        "section1": {
+            "title": "Find Your Inner Peace",
+            "content": "Our yoga classes are designed to promote relaxation and mindfulness. Each session focuses on various yoga styles to enhance your physical health while calming your mind."
+        },
+        "section2": {
+            "title": "All Levels Welcome",
+            "content": "Whether you're a beginner or an experienced yogi, our instructors adapt each class to meet your needs, ensuring everyone feels comfortable and supported."
+        },
+        "images": [
+            "/assets/gym/service/gym-17.jpg",
+            "/assets/gym/service/gym-18.jpg"
+        ],
+        "faq": [
+            {
+                "title": "Do I need to bring my own mat?",
+                "content": "You can bring your own mat or use one of ours at the gym."
+            },
+            {
+                "title": "What should I wear to class?",
+                "content": "Wear comfortable clothing that allows for movement and flexibility."
+            }
+        ],
+        "workingHours": {
+            "days": "Mon-Sun",
+            "time": "7:00 AM - 8:00 PM"
+        },
+        "relatedServices": [
+            {
+                "title": "Personalized Training Programs",
+                "slug": "personal-training",
+                "image": "/assets/gym/service/services-10.jpg"
+            },
+            {
+                "title": "Group Fitness Classes",
+                "slug": "group-fitness",
+                "image": "/assets/gym/service/gym-22.jpg"
+            },
+            {
+                "title": "Nutrition Coaching",
+                "slug": "nutrition-coaching",
+                "image": "/assets/gym/service/gym-12.jpg"
+            }
+          
+        ]
+    },
+    {
+        "slug": "recovery-rehabilitation",
+        "title": "Recovery and Rehabilitation",
+        "image": "/assets/gym/service/gym-17.jpg",
+        "content": "Our recovery and rehabilitation programs are designed to help you recover from injuries and improve your overall wellness. We offer personalized plans that include physical therapy, massage therapy, and specialized training.",
+        "section1": {
+            "title": "Supportive Recovery Environment",
+            "content": "Our trained specialists provide a nurturing environment where you can focus on your recovery. We’ll work with you to create a plan that addresses your specific needs and goals."
+        },
+        "section2": {
+            "title": "Innovative Techniques for Healing",
+            "content": "We utilize cutting-edge techniques to aid in your recovery process. From therapeutic massages to specialized rehab exercises, we ensure you get the best care."
+        },
+        "images": [
+            "/assets/gym/service/gym-18.jpg",
+            "/assets/gym/service/gym-19.jpg"
+        ],
+        "faq": [
+            {
+                "title": "What can I expect during my first session?",
+                "content": "You’ll undergo an assessment to identify your needs, followed by a tailored recovery plan."
+            },
+            {
+                "title": "How long does the recovery process take?",
+                "content": "It varies depending on your specific condition, but we will set realistic goals together."
+            }
+        ],
+        "workingHours": {
+            "days": "Mon-Sun",
+            "time": "8:00 AM - 7:00 PM"
+        },
+        "relatedServices": [
+            {
+                "title": "Personalized Training Programs",
+                "slug": "personal-training",
+                "image": "/assets/gym/service/services-10.jpg"
+            },
+            {
+                "title": "Nutrition Coaching",
+                "slug": "nutrition-coaching",
+                "image": "/assets/gym/service/services-12.jpg"
+            }
+        ]
+    }
+]
