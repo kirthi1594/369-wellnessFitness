@@ -79,7 +79,7 @@ const ServiceDetailPage = () => {
                                     variant="left"
                                     title={related.title}
                                     imageUrl={related.image}
-                                    buttonLink={`/blog/${related.slug}`}
+                                    buttonLink={`/services/${related.slug}`}
                                     
                                 />
                             ))}

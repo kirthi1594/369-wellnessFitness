@@ -5,7 +5,6 @@ import CenteredTitle from '@/components/common/title-2';
 import Card from '@/components/common/card';
 import Container from '@/components/common/container';
 
-console.log("service data", servicesData)
 
 const Service = () => {
     return (
