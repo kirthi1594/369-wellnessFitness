@@ -8,7 +8,6 @@ import { useRouter } from "next/router";
 function Header() {
   const [navbar, setNavbar] = useState(false);
   const [isScrolling, setIsScrolling] = useState(false);
-  console.log("sdcroll", isScrolling);
   const router = useRouter();
 
   const path = usePathname();
