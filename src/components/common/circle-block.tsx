@@ -31,7 +31,7 @@ const CircleImages: React.FC<CircleImagesProps> = ({ images, bigCircleIndex, tit
             <div className="mb-10">
                 <CenteredTitle title={title} subtitle={subtitle} />
             </div>
-            <div className="flex justify-center items-center max-md:flex-wrap  gap-5 md:space-x-0 ">
+            <div className="flex justify-center items-center max-md:flex-wrap  gap-5 md:space-x-0 lg:m-3">
                 {images?.map((image: any, index: any) => {
                     const sizeClass = index === bigCircleIndex ? "w-56 h-60" : "w-56 h-60"; // Determine size
                     const spinClass = index === bigCircleIndex ? "animate-pulse" : ""; // Add pulse animation for the big circle
