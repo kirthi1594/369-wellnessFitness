@@ -108,8 +108,8 @@ function Header() {
                           : ""
                       }  ${
                         (router.pathname === "/" || router.pathname === "/about-us") 
-                          ? (isScrolling ? "text-zinc-600" : "text-white")
-                          : "text-zinc-600"
+                          ? (isScrolling ? "text-slate-500" : "text-white")
+                          : "text-slate-500"
                       } hover:text-primary`}
                       href={v?.link}
                       onClick={() => setNavbar(!navbar)}
