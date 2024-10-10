@@ -26,7 +26,7 @@ const Hero = ({
           data-aos-once="false"
           className="flex flex-col gap-6"
         >
-          <h1 className="text-4xl lg:text-6xl font-bold text-white font-gemsbuck !max-w-7xl">
+          <h1 className="text-4xl lg:text-6xl font-bold text-white font-gemsbuck !max-w-7xl md:mt-24">
             {title}
           </h1>
           {children}
@@ -63,10 +63,10 @@ const Hero = ({
                 quality={100}
               />
             </div>
-            <div className="max-sm:ml-10  absolute -left-14 -bottom-10 bg-radial-gradient bg-20 z-10 max-md:bottom-0">
+            <div className="max-sm:ml-14  absolute -left-14 -bottom-10 bg-radial-gradient bg-20 z-10 max-md:bottom-0">
               <Image
                 src={`/assets/gym/${imageSec}`}
-                className="object-cover rounded-full aspect-square border-l-2 border-l-white border-r-2 border-r-dashed border-r-white p-2 object-left max-md:h-32 max-md:w-32 "
+                className="object-cover rounded-full aspect-square border-l-2 border-l-white border-r-2 border-r-dashed border-r-white p-2 object-left max-md:h-32 max-md:w-32 md:mb-8"
                 alt=""
                 height={200}
                 width={200}
