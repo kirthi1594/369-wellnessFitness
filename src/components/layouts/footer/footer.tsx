@@ -21,8 +21,8 @@ const Footer = () => {
   ];
 
   return (
-    <footer className="bg-white lg:grid lg:grid-cols-5 shadow-lg">
-      <div className="relative block h-32 lg:col-span-2 lg:h-full">
+    <footer className="bg-gray-300 lg:grid lg:grid-cols-5 shadow-lg">
+      <div className="relative hidden lg:block h-32 lg:col-span-2 lg:h-full">
         <Image
           src="/assets/gym/service/gym-30.jpg"
           className="absolute inset-0 h-full w-full object-cover"
@@ -70,7 +70,7 @@ const Footer = () => {
               </p>
             </div>
 
-            <ul className="mt-8 flex gap-6">
+            {/* <ul className="mt-8 flex gap-6">
               {companies.map((company) => (
                 <li key={company.name}>
                   <Link
@@ -84,7 +84,7 @@ const Footer = () => {
                   </Link>
                 </li>
               ))}
-            </ul>
+            </ul> */}
           </div>
 
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 max-md:gap-6">
