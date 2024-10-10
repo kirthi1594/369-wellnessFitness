@@ -14,7 +14,7 @@ const Section = ({
   buttonLink,
 }: any) => {
   return (
-    <div className="lg:max-w-xl m-auto xl:max-w-6xl px-4 sm:px-6">
+    <div className="lg:max-w-4xl m-auto xl:max-w-6xl px-4 sm:px-6">
       {/* <div
         className={`flex  ${
           reverse ? "lg:flex-row-reverse " : ""
