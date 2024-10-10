@@ -164,9 +164,9 @@ export default function Home() {
         <CircleImages images={images} bigCircleIndex={bigCircleIndex} variation="horizontal" title={"Highly Effective Workouts"} subtitle={"Maximize your results with our specialized training programs."} />
       </Container>
 
-      <Container>
+      {/* <Container>
         <ImageGrid images={imagesGrid} />
-      </Container>
+      </Container> */}
 
       <div className="max-w-6xl m-auto ">
         <CenteredTitle title={"Master the Art of Wellness"} subtitle={"Unlock the balance between mind, body, and strength for a healthier, fitter you."} />
