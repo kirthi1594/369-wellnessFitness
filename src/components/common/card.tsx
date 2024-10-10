@@ -28,12 +28,12 @@ const Card: React.FC<CardProps> = ({
         switch (variant) {
             case 'centered':
                 return (
-                    <div className="flex flex-col items-center bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 w-96">
+                    <div className="flex flex-col items-center bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 w-96 flex-wrap">
                         <div className="relative w-full h-48 !rounded-md">
                             <Image className="object-contain !rounded-md" src={imageUrl || svgIcon} alt={title} layout="fill" />
                         </div>
                         <div className="p-6 max-w-sm">
-                            <h2 className="text-3xl font-bold mb-3 font-gemsbuck">{title}</h2>
+                            <h2 className="text-2xl font-bold mb-3 font-gemsbuck">{title}</h2>
                             <p className="mb-3 font-rodin text-lg overflow-hidden text-ellipsis line-clamp-3" >
                                 {description}
                             </p>
